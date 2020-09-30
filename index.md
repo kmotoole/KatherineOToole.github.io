@@ -1,3 +1,15 @@
+<html>
+
+  <head>
+
+
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Katherine O'Toole</title>
+  <meta name="description" content="PhD student at Northwestern in Technology and Social Behavior. 
+">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kmotoole/KatherineOToole.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
