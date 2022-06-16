@@ -4,7 +4,7 @@
 Ph.D student at Northwestern University, Technology and Social Behavior
 
 ### News 
-Read my newest paper, Novelty and Cultural Evolution in Modern Popular Music, here: https://github.com/kmotoole/About/raw/gh-pages/Reference.pdf
+Read my newest paper, Novelty and Cultural Evolution in Modern Popular Music, [here](https://github.com/kmotoole/About/raw/gh-pages/Reference.pdf).
 
 ### Research
 
