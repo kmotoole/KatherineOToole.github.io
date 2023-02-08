@@ -1,13 +1,14 @@
 
 ## Katherine O'Toole
-![headshot](/About/docs/assets/KOHeadshot.jpg)
 Ph.D student at Northwestern University, Technology and Social Behavior
+
+![headshot](/About/docs/assets/KOHeadshot.jpg)
 
 
 
 ### Research
 
-I am a PhD student in Northwestern University's Technology and Social Behavior program, and work with Agnes Horvat in the LINK lab. I have always been intrigued by how creativity and innovation occur across different disciplines, and how technology can be used to help facilitate creative endeavors and innovation through collaboration. My research focuses on the intersection of human behavior and technology in creative domains, and understanding how technology can be leveraged to support creativity both in individual and collaborative settings. I am interested in using computational methods to study and model creativity, especially within larger social contexts and networks, and applying this knowledge to design tools that will help users be more innovative and creative. My research looks at the effects that technology and computing have on larger social networks, collaborative processes, and group behavior, as well as the impact of technology on the process of how ideas are developed and disseminated. In particular, my work has looked at how we can leverage large scale datasets and computational methodology in order to gain insights into how people perceive and evaluate music, and how they engage with musical artifacts in digital settings.
+I am a PhD student in Northwestern University's [Technology and Social Behavior](https://tsb.northwestern.edu/) program, and work with [Agnes Horvat](https://agneshorvat.soc.northwestern.edu/) in the [LINK](https://link.soc.northwestern.edu/) lab. I have always been intrigued by how creativity and innovation occur across different disciplines, and how technology can be used to help facilitate creative endeavors and innovation through collaboration. My research focuses on the intersection of human behavior and technology in creative domains, and understanding how technology can be leveraged to support creativity both in individual and collaborative settings. I am interested in using computational methods to study and model creativity, especially within larger social contexts and networks, and applying this knowledge to design tools that will help users be more innovative and creative. My research looks at the effects that technology and computing have on larger social networks, collaborative processes, and group behavior, as well as the impact of technology on the process of how ideas are developed and disseminated. In particular, my work has looked at how we can leverage large scale datasets and computational methodology in order to gain insights into how people perceive and evaluate music, and how they engage with musical artifacts in digital settings.
 
 
 ### News 
