@@ -1,6 +1,6 @@
 
 ## Katherine O'Toole
-
+![headshot](/About/docs/assets/KOHeadshot.jpg)
 Ph.D student at Northwestern University, Technology and Social Behavior
 
 
