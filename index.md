@@ -14,8 +14,7 @@ I am a PhD student in Northwestern University's [Technology and Social Behavior]
 ### News 
 My newest paper, [Novelty and Cultural Evolution in Modern Popular Music](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00377-7), is available to read in EPJ Data Science. In this paper, I use computational methodologies to measure novelty in the aural and lyrical attributes of songs, and examine relationships between song novelty and the likelihood of commercial success.
 
-My paper on Collaborative Creativity in TikTok Duets will be appearing in the Proceedings of the 2023 CHI Conference on Human Factors
-in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. In this paper, I explore how the technical affordances of the Duet feature structure collaborative interactions between musicians on the TikTok platform and shape the development of a distributed creative process.
+My paper, [Collaborative Creativity in TikTok Duets](https://github.com/kmotoole/About/blob/gh-pages/docs/assets/chi23-688.pdf) will be appearing in the Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. In this paper, I explore how the technical affordances of the Duet feature structure collaborative interactions between musicians on the TikTok platform and shape the development of a distributed creative process.
 
 
 
