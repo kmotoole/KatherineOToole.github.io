@@ -1,6 +1,7 @@
 
 ## Katherine O'Toole
-Ph.D student at Northwestern University, Technology and Social Behavior
+I am a PhD student in Northwestern University's [Technology and Social Behavior](https://tsb.northwestern.edu/) program, and work with [Agnes Horvat](https://agneshorvat.soc.northwestern.edu/) in the [LINK](https://link.soc.northwestern.edu/) lab. 
+
 
 ![headshot](/About/docs/assets/KOHeadshot.jpg)
 
@@ -8,7 +9,6 @@ Ph.D student at Northwestern University, Technology and Social Behavior
 
 
 
-I am a PhD student in Northwestern University's [Technology and Social Behavior](https://tsb.northwestern.edu/) program, and work with [Agnes Horvat](https://agneshorvat.soc.northwestern.edu/) in the [LINK](https://link.soc.northwestern.edu/) lab. 
 
 ### Research
 In my research, I investigate creativity as an interactive, emergent phenomenon that is embedded in the larger socio-cultural context, and explore how technological affordances can facilitate creativity for both individuals and groups. By drawing on the conceptual framework of creativity as a form of enactive cognition, my research aims to develop computational models of the processes involved in collective creativity and cultural evolution in order to shed light on the underlying cognitive processes required to generate new ideas. My work focuses on the intersection of human behavior and technology in creative domains, and understanding how technology can be leveraged to support creativity both in individual and collaborative settings. I utilize big data analysis, social network science, machine learning, statistical modeling, and other computational methods to study human behavior and interactions in the context of creativity and collaborative innovation, with a particular focus on music. I am particularly interested in examining the dynamics of co-creative behaviors within socio-technical systems, and my work leverages digital trace data to investigate how distributed creativity emerges as individuals extend and build on existing knowledge within a domain. 
