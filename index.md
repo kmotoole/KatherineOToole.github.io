@@ -18,7 +18,7 @@ In my research, I investigate creativity as an interactive, emergent phenomenon 
 ### Publications
 In my latest paper, [Extending Human Creativity with AI](https://www.sciencedirect.com/science/article/pii/S2713374524000062), published in the Journal of Creativity, I examine how AI technologies can be leveraged to support human creativity, particularly through the development of new creative practices and forms of expression.
 
-My paper, [Collaborative Creativity in TikTok Duets](https://github.com/kmotoole/About/blob/gh-pages/docs/assets/chi23-688.pdf) was published in the Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. In this paper, I explore how the technical affordances of the Duet feature structure collaborative interactions between musicians on the TikTok platform and shape the development of a distributed creative process.
+My paper, [Collaborative Creativity in TikTok Duets](https://dl.acm.org/doi/pdf/10.1145/3544548.3581380) was published in the Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. In this paper, I explore how the technical affordances of the Duet feature structure collaborative interactions between musicians on the TikTok platform and shape the development of a distributed creative process.
 
 [Novelty and Cultural Evolution in Modern Popular Music](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00377-7), is available to read in EPJ Data Science. In this paper, I use computational methodologies to measure novelty in the aural and lyrical attributes of songs, and examine relationships between song novelty and the likelihood of commercial success.
 
